@@ -103,6 +103,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - [Gianvincenzo Alfano](#gianvincenzo-alfano)
     - [Astorino Annabella](#astorino-annabella)
   - [Algebra lineare e matematica discreta](#algebra-lineare-e-matematica-discreta)
+    - [Domenico Magisano](Domenico-Magisano)
     - [Corrado Salvatore](#corrado-salvatore)
     - [Dmitry Kvasov](#dmitry-kvasov)
     - [Yaroslav Sergeyev](#yaroslav-sergeyev)
@@ -2758,6 +2759,18 @@ malloc(sizeof(int)*(i+1));
   - proprietà equazioni logaritmiche esponenziali
 
 ## Algebra lineare e matematica discreta
+### Domenico Magisano 
+**<u>2025 2026</u>**
+- Anonimo
+  -combinazione lineare 
+  -span
+  -prodotto matriciale esercizio 
+  -autovettori e autovalori 
+  -perchè il determinante di una matrice singolare è 0
+  -perchè l'immagine è combinazione lineare delle colonne della matrice associata 
+
+
+
 
 ### Corrado Salvatore
 
